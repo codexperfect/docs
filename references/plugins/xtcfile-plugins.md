@@ -1,2 +1,3 @@
-# xtcfile Plugins
+## XTC File Plugins
 
+No plugin manager is defined in `xtcfile`.

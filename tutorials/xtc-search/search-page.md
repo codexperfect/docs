@@ -1,2 +1,1 @@
-# Search Page
-
+# Creating a search page

@@ -1,2 +1,1 @@
-# Search Display
-
+# Search display

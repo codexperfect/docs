@@ -1,2 +1,1 @@
-# XTC Request
-
+# Defining a Request

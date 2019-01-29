@@ -1,2 +1,1 @@
-# XTC Server
-
+# Defining a Server
